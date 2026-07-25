@@ -1,4 +1,4 @@
-# corp.local — Active Directory Attack Lab
+# corp.local :Active Directory Attack Lab
 
 A self-hosted Active Directory environment built from scratch to reproduce, and then attack, the kind of misconfigurations that show up repeatedly in real internal penetration tests: Kerberoastable service accounts, AS-REP roastable users, an over-permissioned help-desk account, and unconstrained delegation sitting on a box nobody audits.
 
